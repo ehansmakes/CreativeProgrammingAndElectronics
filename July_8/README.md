@@ -1,6 +1,6 @@
 **Describe what the environment is supposed to be and why it is important to you:**
 
-For the environment of the portrait, I wanted to emulate a vaporwave aesthetic, which typically involves shades of pink and teal and imagery from the 80's and 90's. I felt that I could reference 90's imagery by emulating early 1990's 3D graphics in my portrait (see Figure 2).
+For the environment of the portrait, I wanted to emulate a vaporwave aesthetic, which typically involves shades of pink and teal and imagery from the 80's and 90's. I felt that I could reference 90's imagery by emulating early 1990's 3D graphics in my portrait (see Figure 2). This reference to technology is personal to me in two parts. The first comes from childhood nostalgia, the second comes from my hobbies that involve restoring and modifying obsolete technology from this era. 
 
 **Write a short description of any difficulties you had or anything interesting you discovered:**
 
