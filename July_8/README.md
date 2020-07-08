@@ -12,4 +12,4 @@ The biggest difficulty I found was in filling in the spaces of polygons that had
 
 ![](/July_8/VF1.jpg)
 
-**Figure 2** Virtua Fight (c. 1993), a reference to early 3D graphics that was used for inspiration for the self portrait
+**Figure 2** Virtua Fight (c. 1993), a reference to early 3D graphics that was used as inspiration for the self portrait
