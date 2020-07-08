@@ -6,7 +6,7 @@ For the environment of the portrait, I wanted to emulate a vaporwave aesthetic, 
 
 The biggest difficulty I found was in filling in the spaces of polygons that had more than four corners as it took the most time in the self-portrait making process. The biggest bottleneck was in generating the coordinates. In hindsight, I feel I should have went with a more abstract interpretation of a self-portrait. 
 
-![](/July_8/SelfPortraitV2.jpg)
+![](/July_8/SelfPortraitV3.jpg)
 
 **Figure 1** My Self Portrait made using Processing
 
