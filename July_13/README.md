@@ -1,6 +1,6 @@
 For this assignment I decided to create two patterns use "for()" loops.
 
-Pattern 1 was inspired by a photo that I found on reddit of a sunset between two buildings [see Pattern_1_Inspiration.jpg[GitHub](https://github.com/ehansmakes/CreativeProgrammingAndElectronics/blob/master/July_13/Pattern_1_Inspiration.jpg)].
+Pattern 1 was inspired by a photo that I found on reddit of a sunset between two buildings [see [Pattern_1_Inspiration.jpg](https://github.com/ehansmakes/CreativeProgrammingAndElectronics/blob/master/July_13/Pattern_1_Inspiration.jpg)].
 
 I came up with pattern 2 when I was brainstorm interlocking geometry that was more complicated than a square. I decided to use what I learned in creating a color gradient in Pattern_1 in Pattern_2 as well. I felt this gave the overall image more "depth". 
 
