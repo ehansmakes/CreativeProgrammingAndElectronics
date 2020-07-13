@@ -6,7 +6,7 @@ I came up with pattern 2 when I was brainstorm interlocking geometry that was mo
 
 **Inspiration for Pattern_1**
 
-#**Difficulties**<h1>
+**Difficulties**
 1) Creating the code that would generate the color gradients in both patterns
 2) Establishing the shape of the arrow to ensure the pattern would interlock 
 3) Printing out the finished pattern without using theb "Print Screen" command. See Discoveries 1 for the solution I used. 
