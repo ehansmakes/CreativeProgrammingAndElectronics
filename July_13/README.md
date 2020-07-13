@@ -4,9 +4,6 @@ Pattern 1 was inspired by a photo that I found on reddit of a sunset between two
 
 I came up with pattern 2 when I was brainstorm interlocking geometry that was more complicated than a square. I decided to use what I learned in creating a color gradient in Pattern_1 in Pattern_2 as well. I felt this gave the overall image more "depth". 
 
-![](/July_13/Pattern_1_Inspiration.jpg)
-**Inspiration for Pattern_1**
-
 **Difficulties**
 1) Creating the code that would generate the color gradients in both patterns
 2) Establishing the shape of the arrow to ensure the pattern would interlock 
@@ -17,7 +14,9 @@ I came up with pattern 2 when I was brainstorm interlocking geometry that was mo
 1) I found using the "saveFrame(}" ensured I wasn't leaving anything out when trying to capture an image. It certainly a lot clean than using "Screen Print" and editing in MS Paint. 
 
 ![](/July_13/Pattern_1.png)
+
 **Pattern_1**
 
 ![](/July_13/Pattern_2.png)
+
 **Pattern_2**
