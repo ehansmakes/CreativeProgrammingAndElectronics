@@ -16,8 +16,8 @@ I came up with pattern 2 when I was brainstorm interlocking geometry that was mo
 **Discoveries**
 1) I found using the "saveFrame(}" ensured I wasn't leaving anything out when trying to capture an image. It certainly a lot clean than using "Screen Print" and editing in MS Paint. 
 
-![](/July_13/Pattern_1.jpg)
+![](/July_13/Pattern_1.png)
 **Pattern_1**
 
-![](/July_13/Pattern_2.jpg)
+![](/July_13/Pattern_2.png)
 **Pattern_2**
