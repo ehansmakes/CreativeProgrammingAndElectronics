@@ -35,6 +35,6 @@ void draw() {
 
 void keyPressed() { 
   if (keyCode == ENTER) { 
-    saveFrame("autostart_p2_1.tif");  /takes screenshot of canvas
+    saveFrame("autostart_p2_1.tif");  // Takes screenshot of canvas
   }
 }
