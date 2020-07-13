@@ -1,11 +1,11 @@
 void setup() {
-  size(800, 800);
-  background(0);
+  size(800, 800); //Canvas size
+  background(0);  //Background Color
   noLoop();
 }
 
 void draw() {
-  // Creates color gradient 
+  // Creates color gradient from black to purple
   for (int j=0; j<9; j++) {
     for (int i=0; i<9; i++) {
     
@@ -16,7 +16,7 @@ void draw() {
       rect(x, y-100, 100, 100);
     }
 
-    // Creates arrow
+    // Creates arrow pattern
     for (float i=0; i<10; i++) {
       float x2=0;
       x2=x2+80*i;
@@ -35,6 +35,6 @@ void draw() {
 
 void keyPressed() { 
   if (keyCode == ENTER) { 
-    saveFrame("autostart_p2_1.tif");
+    saveFrame("autostart_p2_1.tif");  /takes screenshot of canvas
   }
 }
