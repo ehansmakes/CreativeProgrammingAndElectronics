@@ -1,6 +1,6 @@
 void setup() {
-  size(800, 800);
-  background(0);
+  size(800, 800);  // Canvas Size
+  background(0);   // Background Color
   noLoop();
 }
 
@@ -75,6 +75,6 @@ void draw() {
 
 void keyPressed() { 
   if (keyCode == ENTER) { 
-    saveFrame("autostart_p2_1.tif");
+    saveFrame("autostart_p2_1.tif"); // Takes Screenshot of canvas
   }
 }
