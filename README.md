@@ -1,6 +1,3 @@
 # CreativeProgrammingAndElectronics
 
-Test1
-**Test2**
-
-*Test 3*
+A collection of Processing programs and patterns ✨
